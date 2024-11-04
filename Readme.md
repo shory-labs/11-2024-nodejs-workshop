@@ -8,7 +8,7 @@ This repo provides hands-on material for the Node.js workshop, allowing attendee
   
 ## Workshop Coding Agenda
 1. [Understand NodeJs project structure](./docs/nodejs-project-structure.md)
-2. Typescript in action
+2. [Typescript in action](./docs/typescript-in-action.md)
 3. Create NodeJS API using express.js, typescript and json files.
 4. Create Your First React App.
 5. Create Your First React Native App.
