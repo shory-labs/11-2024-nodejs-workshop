@@ -1,8 +1,7 @@
 # Create Your First Next.js App
 
 ## Step 1: Create a Next.js Project
-1. Open your terminal or command prompt.
-2. Open your terminal and run the following command to create a new Next.js project:
+Open your terminal and run the following command to create a new Next.js project:
     `npx create-next-app@latest next-demo`
 This will create a new folder called next-demo with the required files and dependencies for a Next.js app.
 

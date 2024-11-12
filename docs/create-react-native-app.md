@@ -1,7 +1,7 @@
 # Set Up a New React Native Project
 
 ## Step 1: Install React Native CLI
-1. You will need to install React Native CLI globally on your system. Open a terminal and run:
+You will need to install React Native CLI globally on your system. Open a terminal and run:
     `npm install -g react-native-cli`
 This will create a new folder called next-demo with the required files and dependencies for a Next.js app.
 
